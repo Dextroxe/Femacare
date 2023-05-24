@@ -9,7 +9,7 @@ Typescript and some componets from Flowbite :)
 
 ## Landing Page
 
-![App Screenshot]('https://raw.githubusercontent.com/Dextroxe/Femacare/main/femacare_site.png')
+![App Screenshot]('https://imgur.com/a/facRfxB')
 
 ## Getting Started
 
