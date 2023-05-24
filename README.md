@@ -9,7 +9,7 @@ Typescript and some componets from Flowbite :)
 
 ## Landing Page
 
-![App Screenshot]("https://i.imgur.com/KDxfoku.png")
+![App Screenshot](https://i.imgur.com/KDxfoku.png)
 
 ## Getting Started
 
