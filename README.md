@@ -9,7 +9,7 @@ Typescript and some componets from Flowbite :)
 
 ## Landing Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]('./public/logo_web.png)
 
 ## Getting Started
 
