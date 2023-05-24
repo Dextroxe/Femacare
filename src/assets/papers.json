@@ -1,0 +1,72 @@
+
+
+[
+    {
+        "id":1,
+        "type":"Research Paper",
+        "title":"A Clinical study on Role of Saptasamo Yoga and Darvyadi",
+        "desc":"Safe and effective remedy for psoriasis: Clinical study on Saptasamo Yoga and Darvyadi Yamak Malahara treatment shows promising results."
+    },
+    {
+        "id":2,
+        "type":"Research Paper",
+        "title":"A CLINICAL STUDY ON THE ROLE OF AYURVEDIC HERBAL COMPOUND IN THE MANAGEMENT OF THE PREMATURE EJACULATION",
+        "desc":"Managing premature ejaculation (PE): Study with 90 patients reveals significant efficacy of 'Vajikarana Yoga' herbal compound (60%) and psychotherapy (40%), offering potential treatments for PE."
+    },
+    {
+        "id":3,
+        "type":"Research Paper",
+        "title":"ANTIASTHMATIC ACTIVITY OF MORINGA OLEIFERA LAM-A CLINICAL STUDYY",
+        "desc":"Efficacy of Moringa oleifera seed kernels in bronchial asthma: Clinical study reveals significant improvement in symptoms, respiratory functions, and hematological parameters without adverse effects, indicating therapeutic potential of M. oleifera."
+    },
+    {
+        "id":4,
+        "type":"Research Paper",
+        "title":"Effect of Shirishadi Decoction and Snuhyadi Lepa on the patients of Vicharchika (Eczema)",
+        "desc":"Shirishadi Decoction and Snuhyadi Lepa: Promising treatments for Vicharchika (Eczema). Clinical study shows significant relief in symptoms and eosinophil count, offering potential relief for patients."
+    },
+    {
+        "id":5,
+        "type":"Research Paper",
+        "title":"Efficacy of Vasadi Syrup and Shwasaghna Dhuma in the patients of COPD",
+        "desc":"COPD: A Public Health Crisis with Heterogeneous Manifestations. Study evaluates efficacy of Ayurvedic formulations (Vasadi Syrup and Shwasaghna Dhuma) on COPD patients, showing significant results in symptomatology and spirometric criteria."
+    },
+    {
+        "id":6,
+        "type":"Research Paper",
+        "title":"Foetal Development In utero Modern Medical Knowledge or a Vedic Mystery",
+        "desc":"Unlocking Ancient Indian Knowledge: Exploring the Treasure Trove of Wisdom. Charka Samhita's account of fetal development correlates remarkably with modern texts, highlighting the untapped potential of ancient Indian literature for valuable insights. Embracing this exploration can yield pearls of wisdom for the future."
+    },
+    {
+        "id":7,
+        "type":"Research Paper",
+        "title":"Management ofIron Deficiency Anaemia In Females by",
+        "desc":"Managing Iron Deficiency Anemia: Exploring Ayurvedic Approach. Panduroga (Iron deficiency anemia) in females is a common problem. Ayurveda provides insights into its types, clinical features, and management. Clinical trial with Punarnauamandura shows significant improvement in general condition, Hb levels (87%), and serum iron (75%) in patients."
+    },
+    {
+        "id":8,
+        "type":"Research Paper",
+        "title":"Research in Ayurveda_ Challenges and way forward",
+        "desc":"Ayurveda: A Science Rooted in Philosophy and Evidence. Ayurveda's principles are founded on rigorous testing, reasoning, and validation by ancient sages. As the world's most comprehensive and sustainable health system, Ayurveda aims to regain global leadership with its personalized and holistic approach. Keywords: Ayurveda, Research, Evidence-Based Medicine, Randomized Controlled Trials (RCTs), Pharmacopoeia, System Validation."
+    },
+    {
+        "id":9,
+        "type":"Catalogue",
+        "title":"RESEARCH PUBLICATIONS IN AYURVEDIC SCIENCES",
+        "desc":"Catalogue of Research information on Ayurveda and Related Sciences"
+    },
+    {
+        "id":10,
+        "type":"Journal",
+        "title":"The mind of Ayurveda ",
+        "desc":"A conversation with a legend - Raghavan Thirumulpad"
+    },
+    {
+        "id":11,
+        "type":"Research Paper",
+        "title":"Therapeutic Patient Education - Lessons From Ayurveda",
+        "desc":"Transforming Diabetes Management: Embracing a Patient-Centered Approach. While modern medicine made significant strides in diabetes recognition and treatment, the pioneers of diabetology recognized the importance of patient involvement for successful therapy. Today, the global healthcare community acknowledges the significance of diabetes awareness and education. Therapeutic Patient Education (TPE) empowers individuals, positively impacting their health outcomes."
+    }
+]
+
+
