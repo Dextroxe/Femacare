@@ -26,14 +26,6 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 You can start editing the page by modifying `/src`. The page auto-updates as you edit the file.
 
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vite
 
@@ -50,7 +42,7 @@ Once you've built the app, you may test it locally by running npm run preview co
 bash
 $ npm run build
 $ npm run preview
-The vite preview command will boot up a local static web server that serves the files from dist at http://localhost:4173. It's an easy way to check if the production build looks OK in your local environment.
+The vite preview command will boot up a local static web server that serves the files from dist at http://localhost:5173. It's an easy way to check if the production build looks OK in your local environment.
 
 You may configure the port of the server by passing the --port flag as an argument.
 
